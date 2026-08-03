@@ -14,7 +14,6 @@ Este projeto é uma página web para divulgação do livro **Engenharia de Intel
 
 ## 👤 Autor
 
-![Minha Foto](img/autorx.jpg) 
+<img src="img/autorx.jpg" alt="Foto do Autor" width="100">
 
 Cristiano C A – Desenvolvedor Web e Analista de Dados com IA.
-
