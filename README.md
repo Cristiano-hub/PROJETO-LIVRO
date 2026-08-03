@@ -17,7 +17,7 @@ Este projeto é uma página web para divulgação do livro **Engenharia de Intel
 <img src="img/autorx.jpg" alt="Foto do Autor" width="200">
 
 ## 📌 Site publicado
-🌐 [Acesse aqui](https://cristiano-hub.github.io/PROJETO-LIVRO/)
+🌐 (https://cristiano-hub.github.io/PROJETO-LIVRO/)
 
 ## 📂 Códigos-fonte
 🔗 [Repositório no GitHub](https://github.com/Cristiano-hub/PROJETO-LIVRO)
