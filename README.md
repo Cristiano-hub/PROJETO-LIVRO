@@ -11,3 +11,10 @@ Este projeto é uma página web para divulgação do livro **Engenharia de Intel
 - O botões **COMPRAR** presentes na página ainda não estão funcionais.  
 - Ele abre uma nova aba, mas não direciona para nenhum conteúdo específico.  
 - Em versões futuras do projeto, os links serão atualizados para a página correta de compra.
+
+## 👤 Autor
+
+![Minha Foto](img/autorx.jpg) 
+
+Cristiano C A – Desenvolvedor Web e Analista de Dados com IA.
+
