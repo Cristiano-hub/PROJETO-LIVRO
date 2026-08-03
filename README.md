@@ -8,6 +8,6 @@ Este projeto é uma página web para divulgação do livro **Engenharia de Intel
 - `img/` → Imagens da capa e do autor
 
 ## ⚠️ Observações
-- O botões **COMPRAR** presentes na página ainda não está funcional.  
+- O botões **COMPRAR** presentes na página ainda não estão funcionais.  
 - Ele abre uma nova aba, mas não direciona para nenhum conteúdo específico.  
-- Em versões futuras do projeto, o link será atualizado para a página correta de compra.
+- Em versões futuras do projeto, os links serão atualizados para a página correta de compra.
