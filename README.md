@@ -14,6 +14,17 @@ Este projeto é uma página web para divulgação do livro **Engenharia de Intel
 
 ## 👤 Autor
 
-<img src="img/autorx.jpg" alt="Foto do Autor" width="201">
+<img src="img/autorx.jpg" alt="Foto do Autor" width="200">
+
+## 📌 Site publicado
+🌐 [Acesse aqui](https://cristiano-hub.github.io/PROJETO-LIVRO/)
+
+## 📂 Códigos-fonte
+🔗 [Repositório no GitHub](https://github.com/Cristiano-hub/PROJETO-LIVRO)
+
+## 🎯 Objetivo
+Este projeto tem como objetivo divulgar o livro **Engenharia de Inteligência Artificial**, apresentando conteúdos, imagens e informações relevantes.  
+⚠️ Observação: o botão **COMPRAR** ainda não está ativo.
+
 
 Cristiano C A – Desenvolvedor Web e Analista de Dados com IA.
