@@ -20,7 +20,7 @@ Este projeto é uma página web para divulgação do livro **Engenharia de Intel
 🌐 https://cristiano-hub.github.io/PROJETO-LIVRO/
 
 ## 📂 Códigos-fonte
-🔗 [Repositório no GitHub](https://github.com/Cristiano-hub/PROJETO-LIVRO)
+🔗 https://github.com/Cristiano-hub/PROJETO-LIVRO
 
 ## 🎯 Objetivo
 Este projeto tem como objetivo divulgar o livro **Engenharia de Inteligência Artificial**, apresentando conteúdos, imagens e informações relevantes.  
